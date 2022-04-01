@@ -1,4 +1,17 @@
 body {
-font-family: cursive; 
-color: rgb(88, 88, 185);
+background-color: #fff;
+font-style:normal;
+color: #09165F;
+}
+
+div {
+    width: 1058;
+    height: 786;
+    margin-left: 191;
+    margin-top: 119;
+}
+
+.name {
+    margin: 87px 457px 31px 456px;
+    text-align: center;
 }
